@@ -1,5 +1,5 @@
-var cols = 25;
-var rows = 25;
+var cols = 50;
+var rows = 50;
 var grid = new Array(cols);
 var openSet = [];
 var closedSet = [];
@@ -24,7 +24,7 @@ function Vertex(i,j) {
 	this.neighbours = [];
 	this.walls = false;
 
-	if (random(1) < 0.3) {
+	if (random(1) < 0.1) {
 		this.walls = true;
 	}
 
