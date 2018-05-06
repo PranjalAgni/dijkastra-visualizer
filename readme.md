@@ -25,5 +25,17 @@ and it will show you the port number of local server where it is serving.
 * [Express](http://expressjs.com/) - Web Server.
 * [NPM](https://www.npmjs.com/) - Dependency Management.
 
+## Screenshots
+It shows how Dijkastra is checking every path and selecting the best path.
+
+![screenshot 96](https://user-images.githubusercontent.com/26196076/39670987-7e3190fc-512d-11e8-834a-73bde52fb404.png)
+
+![screenshot 97](https://user-images.githubusercontent.com/26196076/39670990-91058800-512d-11e8-9b45-27095a414f44.png)
+
+![screenshot 100](https://user-images.githubusercontent.com/26196076/39670994-9e4c68ee-512d-11e8-895b-83340da4cf04.png)
+
+![screenshot 101](https://user-images.githubusercontent.com/26196076/39670995-aead19b8-512d-11e8-9004-9c98314fdc53.png)
+
+
 ## Author
 * **Pranjal Agnihotri**
