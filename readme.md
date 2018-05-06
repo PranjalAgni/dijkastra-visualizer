@@ -1,12 +1,30 @@
-********** DIJKASTRA ALGORITHM VISUALIZER **********
+# DIJKASTRA ALGORITHM VISUALIZER
+---
+This is a simple project which shows the real world implementation of Dijkastra Algorithm using P5.js , it purely demonstrates how path-finding algorithm works.
 
-**USED TECHNOLOGIES**
-*JAVASCRIPT*
-*p5.js*
-*Express*
+## Getting Started
+---
+These instructions will get up running the project on your local machine.
+
+### Prerequisites
+* NodeJS
+* NPM
+
+### Installing
+To get up running the project you just need is:
+```
+node app.js
+```
+and it will show you the port number of local server where it is serving.
 
 
-**Description**
-This project is based on path finding algorithm , we're trying to reach from top-left corner to extreme-end-right corner and uses *Dijkastra Algorith* for that.
-*Black dots* ===> It represents the walls which blocks the path.
-*Purple line* ===> It shows the path.
+## Built With
+---
+* Javascript(ES6) - Implemented the Algorithm.
+* p5.js - To build the interface.
+* Express - Web Server.
+* NPM - Dependency Management.
+
+## Author
+```
+* Pranjal Agnihotri
