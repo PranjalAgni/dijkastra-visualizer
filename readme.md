@@ -1,6 +1,6 @@
-# DIJKASTRA ALGORITHM VISUALIZER
+# DIJKSTRA ALGORITHM VISUALIZER
 
-This is a simple project which shows the real world implementation of Dijkastra Algorithm using P5.js , it purely demonstrates how path-finding algorithm works.
+This is a simple project which shows the real world implementation of Dijkstra Algorithm using P5.js , it purely demonstrates how path-finding algorithm works.
 
 ## Getting Started
 
@@ -26,7 +26,7 @@ and it will show you the port number of local server where it is serving.
 * [NPM](https://www.npmjs.com/) - Dependency Management.
 
 ## Screenshots
-It shows how Dijkastra is checking every path and selecting the best path.
+It shows how Dijkstra is checking every path and selecting the best path.
 
 ![screenshot 96](https://user-images.githubusercontent.com/26196076/39670987-7e3190fc-512d-11e8-834a-73bde52fb404.png)
 
